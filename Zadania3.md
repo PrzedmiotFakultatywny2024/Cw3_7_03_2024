@@ -54,8 +54,6 @@ Zaprojektowanie i implementacja jednostronicowej aplikacji PHP z formularzem do 
 
 ## Zadanie 3
 
-## Zadanie 2
-
 ### Zadanie: Stworzenie aplikacji do zarządzania magazynem towarów
 
 #### Cel:
