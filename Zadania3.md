@@ -2,7 +2,7 @@
 
 Zmodyfikowane polecenie z uwzględnieniem dobrych praktyk programowania oraz wymagania dodania stylów CSS w osobnym pliku brzmi następująco:
 
-Cel: Tworzenie responsywnej i stylowej strony internetowej z formularzem, za pomocą którego użytkownicy mogą dodawać nazwy produktów do listy zakupów. Po przesłaniu formularza strona powinna dynamicznie aktualizować wyświetlaną listę zakupów, dodając nowe produkty.
+Cel: Tworzenie stylowej strony internetowej z formularzem, za pomocą którego użytkownicy mogą dodawać nazwy produktów do listy zakupów. Po przesłaniu formularza strona powinna dynamicznie aktualizować wyświetlaną listę zakupów, dodając nowe produkty.
 
 Wymagania:
 
