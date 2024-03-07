@@ -6,7 +6,7 @@ Cel: Tworzenie responsywnej i stylowej strony internetowej z formularzem, za pom
 
 Wymagania:
 
-* Struktura HTML: Utwórz formularz HTML z jednym polem tekstowym dla nazwy produktu i przyciskiem submit. Użyj semantycznych tagów HTML5 dla lepszej dostępności i SEO.
+* Struktura HTML: Utwórz formularz HTML z jednym polem tekstowym dla nazwy produktu i przyciskiem submit. 
 * Metoda przesyłania danych: Ustaw metodę przesyłania formularza na POST.
 * Przetwarzanie danych w PHP: W pliku PHP, użyj sesji lub innych mechanizmów przechowywania, aby zachować listę zakupów między żądaniami. Przetwarzaj dane z formularza, dodając nowe produkty do listy.
 * Wyświetlanie listy zakupów: Aktualną listę zakupów wyświetl jako listę punktowaną lub numerowaną poniżej formularza, z zastosowaniem odpowiednich tagów HTML dla list.
