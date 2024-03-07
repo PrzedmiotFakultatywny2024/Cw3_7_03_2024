@@ -1,14 +1,12 @@
 ## Zadanie 1
 
-Zmodyfikowane polecenie z uwzględnieniem dobrych praktyk programowania oraz wymagania dodania stylów CSS w osobnym pliku brzmi następująco:
-
 Cel: Tworzenie stylowej strony internetowej z formularzem, za pomocą którego użytkownicy mogą dodawać nazwy produktów do listy zakupów. Po przesłaniu formularza strona powinna dynamicznie aktualizować wyświetlaną listę zakupów, dodając nowe produkty.
 
 Wymagania:
 
 * Struktura HTML: Utwórz formularz HTML z jednym polem tekstowym dla nazwy produktu i przyciskiem submit. 
 * Metoda przesyłania danych: Ustaw metodę przesyłania formularza na POST.
-* Przetwarzanie danych w PHP: W pliku PHP, użyj sesji lub innych mechanizmów przechowywania, aby zachować listę zakupów między żądaniami. Przetwarzaj dane z formularza, dodając nowe produkty do listy.
+* Przetwarzanie danych w PHP: W pliku PHP, użyj sesji, aby zachować listę zakupów między żądaniami. Przetwarzaj dane z formularza, dodając nowe produkty do listy.
 * Wyświetlanie listy zakupów: Aktualną listę zakupów wyświetl jako listę punktowaną lub numerowaną poniżej formularza, z zastosowaniem odpowiednich tagów HTML dla list.
 * Aktualizacja listy: Zapewnij, by każde nowe przesłanie formularza aktualizowało listę zakupów o nowe produkty bez konieczności odświeżania całej strony.
 
